@@ -1,0 +1,15 @@
+->container & container-fluid
+#container: width < 100% + margin auto 
+#container-fluid: width 100%
+
+display
+D-FLEX
+justify-content-between
+align items
+color(9 mau)
+	bg-
+	text-
+text-decoretion nono
+margin
+lh-
+font
